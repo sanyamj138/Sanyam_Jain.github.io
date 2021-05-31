@@ -61,6 +61,7 @@ hr {
   width: 150px;
 }
 .skill2 {
+  padding-top: 30px;
   height: 150px;
   width: 150px;
 }
@@ -125,7 +126,7 @@ hr {
 }
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 75px auto;
   line-height: 2;
 }
 .pa {
